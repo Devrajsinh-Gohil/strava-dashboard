@@ -105,6 +105,9 @@ streamlit run src/dash.py
 - Check internet connectivity
 - Refresh tokens if authentication fails
 
+## Demo
+[Video Link](https://drive.google.com/drive/folders/1X5WYdwM8eMpHmY8Hb8lg_AhJBeTwCIRf?usp=sharing)
+
 ---
 
 **Note:** This project is for personal use and learning. Respect Strava's API terms of service.
